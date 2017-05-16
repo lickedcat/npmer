@@ -1,0 +1,23 @@
+{
+  "name": "@lickedcat/npmer",
+  "version": "1.0.1",
+  "description": "the test environment built by tony de sousa",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "tony de sousa",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lickedcat/npmer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lickedcat/npmer/issues"
+  },
+  "homepage": "https://github.com/lickedcat/npmer#readme"
+}
