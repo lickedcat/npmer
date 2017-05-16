@@ -1,6 +1,6 @@
 {
   "name": "@lickedcat/npmer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "the test environment built by tony de sousa",
   "main": "index.js",
   "scripts": {
